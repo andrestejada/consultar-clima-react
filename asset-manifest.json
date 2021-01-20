@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/consultar-clima-react/static/css/main.26648a51.chunk.css",
+    "main.js": "/consultar-clima-react/static/js/main.23585e68.chunk.js",
+    "main.js.map": "/consultar-clima-react/static/js/main.23585e68.chunk.js.map",
+    "runtime-main.js": "/consultar-clima-react/static/js/runtime-main.7e647668.js",
+    "runtime-main.js.map": "/consultar-clima-react/static/js/runtime-main.7e647668.js.map",
+    "static/js/2.a270e674.chunk.js": "/consultar-clima-react/static/js/2.a270e674.chunk.js",
+    "static/js/2.a270e674.chunk.js.map": "/consultar-clima-react/static/js/2.a270e674.chunk.js.map",
+    "static/js/3.6d3422e6.chunk.js": "/consultar-clima-react/static/js/3.6d3422e6.chunk.js",
+    "static/js/3.6d3422e6.chunk.js.map": "/consultar-clima-react/static/js/3.6d3422e6.chunk.js.map",
+    "index.html": "/consultar-clima-react/index.html",
+    "static/css/main.26648a51.chunk.css.map": "/consultar-clima-react/static/css/main.26648a51.chunk.css.map",
+    "static/js/2.a270e674.chunk.js.LICENSE.txt": "/consultar-clima-react/static/js/2.a270e674.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e647668.js",
+    "static/js/2.a270e674.chunk.js",
+    "static/css/main.26648a51.chunk.css",
+    "static/js/main.23585e68.chunk.js"
+  ]
+}
